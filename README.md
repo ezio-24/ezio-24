@@ -1,5 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Anand</h1>
+<!-- <h3 align="center">A passionate fullstack web developer from India</h3> 
 
 - 💬 Ask me about **C, C++, JAVA, HTML5, CSS3**
 
