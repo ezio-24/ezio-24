@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **Khandelas99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12ckKpMzj47iu814QT3GODHUT8qEAo4SM/view?usp=share_link](https://drive.google.com/file/d/12ckKpMzj47iu814QT3GODHUT8qEAo4SM/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12ckKpMzj47iu814QT3GODHUT8qEAo4SM/view?usp=share_link](https://drive.google.com/file/d/14IQIajw0izYB0PAblIag2CGTWpCXHPzb/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
