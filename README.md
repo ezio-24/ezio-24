@@ -82,6 +82,7 @@ technical_background:
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
     "Intern - VLSI and FPGA Implementation",
+    "- 📄 Know about my experiences (https://drive.google.com/file/d/12ckKpMzj47iu814QT3GODHUT8qEAo4SM/view?usp=share_link)"
   ]
   
 currently_learning: [" Java Fullstack Web Developer "]
