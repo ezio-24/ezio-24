@@ -48,7 +48,7 @@
 <a href="https://www.instagram.com/_ezio_24/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<a aria-label="Chat on WhatsApp" href="https://wa.me/17387875003"><img src="https://www.pngegg.com/en/png-cvecc" width="45" height="45"/>
+<a aria-label="Chat on WhatsApp" href="https://wa.me/17387875003"><i class="fab fa-whatsapp fa-2x" style="color: #25d366;"></i>
 </p>
 
 <p align="center">
