@@ -48,9 +48,7 @@
 <a href="https://www.instagram.com/_ezio_24/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
- <a href="#">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png"/ width="45" height="45" />
- </a>
+<a aria-label="Chat on WhatsApp" href="https://wa.me/7387875003"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" /> 
 </p>
 
 <p align="center">
