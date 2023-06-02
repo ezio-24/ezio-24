@@ -73,12 +73,9 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
+    "Data Structure"
+    "UI/UX"
+  }
   
 currently_learning: [" Java Fullstack Web Developer "]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
