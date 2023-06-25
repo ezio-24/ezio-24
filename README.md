@@ -64,7 +64,6 @@
 ```yaml
 name: Anand Khandel
 located_in: Akot, Maharashtra
-current_job: Full Stack Web Developer
 education:
   [
     "Self-Taught Developer and Designer",
