@@ -73,8 +73,9 @@ education:
 fields_of_interests:
   [
     "Web Development",
+    "Back-end Development",
     "Data Structure"
-    "UI/UX"
+ 
   }
   
 currently_learning: [" Java Fullstack Web Developer "]
