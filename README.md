@@ -52,8 +52,8 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
  &nbsp
-<a aria-label="Chat on WhatsApp" href="https://wa.me/17387875003"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg"/>
-</p>
+<!-- <a aria-label="Chat on WhatsApp" href="https://wa.me/17387875003"><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg"/>
+</p> -->
 
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
