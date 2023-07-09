@@ -61,7 +61,7 @@
 
 ---
 
- ![visitors](https://visitor-badge.glitch.me/badge?ezio-24=page.id&left_color=green&right_color=red)
+ <img src="https://komarev.com/ghpvc/?username=ezio-24&label=Profile%20views&color=0e75b6&style=flat" alt="ezio-24" />
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
