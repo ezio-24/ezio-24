@@ -60,7 +60,8 @@
 </p>
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?ezio-24=ezio.24&left_color=green&right_color=red)  
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ezio-24.ezio-24">
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
