@@ -69,7 +69,7 @@ name: Anand Khandel
 located_in: Akot, Maharashtra
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught Developer ,
     "Bachelor's in Computer Science And Engineering",
   ]
 fields_of_interests:
